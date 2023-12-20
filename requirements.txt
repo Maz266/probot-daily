@@ -5,3 +5,4 @@ pydub
 undetected_chromedriver
 2captcha-python
 ultralytics
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability

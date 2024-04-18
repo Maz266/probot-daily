@@ -5,3 +5,4 @@ pydub
 undetected_chromedriver
 2captcha-python
 ultralytics
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
